@@ -9,7 +9,7 @@ func NewHandler() *Handler {
 }
 func (h *Handler) SignupHandler(w http.ResponseWriter,r *http.Request){
 
-//abhi code likha jyega guys
+//abhii code likha jyega guys
 
 }
 func (h *Handler) LoginHandler(w http.ResponseWriter,r *http.Request){
