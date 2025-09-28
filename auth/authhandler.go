@@ -14,7 +14,7 @@ func (h *Handler) SignupHandler(w http.ResponseWriter,r *http.Request){
 }
 func (h *Handler) LoginHandler(w http.ResponseWriter,r *http.Request){
 
-	//abhi code likha jyega guyss
+	//abhi code likha jyega Guyz
 
 }
 func (h *Handler) ForgetPassword(w http.ResponseWriter,r *http.Request){
